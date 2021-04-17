@@ -1,0 +1,34 @@
+define data format
+recipe[name] = {
+    source: ...
+    id: ...
+    name: ...
+    ingredients: ...
+        with subtype
+}
+
+ingredient index[name] = {
+    name: Apple
+    subtype: juice
+    recipes: [12, 13, 14]
+}
+
+parse ingredients to json
+
+write simple single-page app (svelte?) that embeds the entire JSON
+ui design:
+- enter list of ingredients
+    - with auto-complete
+    - remember recent searches
+    - easy to remove an ingredient
+    - include only vegan results
+- show quick view of matching recipes
+    - in small tiles
+    - recipe name
+    - matching ingredients highlighted
+    - other ingredients
+
+publish on github pages
+
+source: detox smoothies; la bible
+isbn 978-2-501-11878-1

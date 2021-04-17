@@ -1,0 +1,2052 @@
+{
+  "recipes": [
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-28",
+      "page_num": 28,
+      "name": "3 Red Fruits With Chia Grains",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "banana",
+        "blackberry",
+        "chia:grains",
+        "ginger",
+        "honey",
+        "raspberry",
+        "strawberry"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-74",
+      "page_num": 74,
+      "name": "Almond And Lin Seed",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "almond",
+        "almond:puree",
+        "banana",
+        "lemon:juice",
+        "lin:seeds",
+        "raspberry",
+        "spinach"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-96",
+      "page_num": 96,
+      "name": "Apple And Pineapple",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "apple",
+        "carbon:active",
+        "ginger",
+        "mint",
+        "pineapple"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-98",
+      "page_num": 98,
+      "name": "Avocado And Chia Grains",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "almond:milk",
+        "avocado",
+        "chia:grains",
+        "peanuts:puree"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-44",
+      "page_num": 44,
+      "name": "Banana And Mango",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "apple",
+        "banana",
+        "mango",
+        "pear",
+        "raspberry",
+        "spinach"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-92",
+      "page_num": 92,
+      "name": "Beet And Ginger",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "beet",
+        "carrot",
+        "coconut-yogurt",
+        "ginger",
+        "spinach"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-108",
+      "page_num": 108,
+      "name": "Blackberry And Almond",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "almond",
+        "almond:milk",
+        "blackberry",
+        "cinnamon",
+        "coconut-yogurt"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-84",
+      "page_num": 84,
+      "name": "Blueberry And Hemp",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "apple",
+        "blueberry",
+        "cucumber",
+        "ginger",
+        "hemp:seeds",
+        "kale",
+        "raisin"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-118",
+      "page_num": 118,
+      "name": "Cacao And Hazelnut",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "almond:puree",
+        "cacao:bean",
+        "hazelnut",
+        "hazelnut:milk",
+        "honey"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-60",
+      "page_num": 60,
+      "name": "Carrot Tonic",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "apple:juice",
+        "avocado",
+        "carrot",
+        "celery",
+        "coconut-yogurt",
+        "ginger"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-126",
+      "page_num": 126,
+      "name": "Celery And Tomato",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "apple",
+        "carrot",
+        "celery",
+        "jalapeno",
+        "parsley",
+        "red-pepper",
+        "tomato"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-14",
+      "page_num": 14,
+      "name": "Cinnamon And Orange",
+      "category": "Detox Infusions",
+      "ingredient_refs": [
+        "cinnamon",
+        "clove",
+        "honey",
+        "orange:zest"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-56",
+      "page_num": 56,
+      "name": "Coconut And Banana",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "banana",
+        "coconut-water",
+        "cucumber",
+        "ginger"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-106",
+      "page_num": 106,
+      "name": "Cucumber And Raisins",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "cucumber",
+        "mint",
+        "parsley",
+        "raisin",
+        "spinach"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-18",
+      "page_num": 18,
+      "name": "Curcuma And Fennel",
+      "category": "Detox Infusions",
+      "ingredient_refs": [
+        "curcuma",
+        "fennel:seeds"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-122",
+      "page_num": 122,
+      "name": "Dream Of Parsley",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "almond:milk",
+        "apple",
+        "cucumber",
+        "ginger",
+        "honey",
+        "parsley",
+        "spinach"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-152",
+      "page_num": 152,
+      "name": "For Digestion",
+      "category": "Fortifying Smoothies",
+      "ingredient_refs": [
+        "apple",
+        "carrot",
+        "celery",
+        "chia:grains",
+        "cucumber",
+        "ginger",
+        "hemp:seeds"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-136",
+      "page_num": 136,
+      "name": "For Energy",
+      "category": "Fortifying Smoothies",
+      "ingredient_refs": [
+        "cashew-nuts",
+        "honey",
+        "pumpkin:seeds",
+        "spinach",
+        "sunflower:seeds",
+        "yogurt:natural"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-150",
+      "page_num": 150,
+      "name": "For Hormonal Equilibrium",
+      "category": "Fortifying Smoothies",
+      "ingredient_refs": [
+        "chia:grains",
+        "kefir",
+        "lin:seeds",
+        "yogurt:natural"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-132",
+      "page_num": 132,
+      "name": "For Metabolism",
+      "category": "Fortifying Smoothies",
+      "ingredient_refs": [
+        "almond:milk",
+        "blueberry",
+        "oatmeal",
+        "psyllium",
+        "spinach"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-146",
+      "page_num": 146,
+      "name": "For Nutrient Intake",
+      "category": "Fortifying Smoothies",
+      "ingredient_refs": [
+        "beet",
+        "blueberry",
+        "broccoli",
+        "goji:berries",
+        "grapefruit",
+        "green-tea",
+        "grenade:seeds"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-142",
+      "page_num": 142,
+      "name": "For Protein Needs",
+      "category": "Fortifying Smoothies",
+      "ingredient_refs": [
+        "blueberry",
+        "chia:grains",
+        "lin:seeds",
+        "raspberry"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-148",
+      "page_num": 148,
+      "name": "For Purifying",
+      "category": "Fortifying Smoothies",
+      "ingredient_refs": [
+        "beet",
+        "carrot",
+        "dandelion:leafs",
+        "garlic",
+        "honey",
+        "lemon:juice",
+        "spinach"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-154",
+      "page_num": 154,
+      "name": "For The Bones",
+      "category": "Fortifying Smoothies",
+      "ingredient_refs": [
+        "brazilian-nuts",
+        "broccoli",
+        "cashew-nuts",
+        "honey",
+        "kale",
+        "oatmeal",
+        "soy:milk"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-156",
+      "page_num": 156,
+      "name": "For The Heart",
+      "category": "Fortifying Smoothies",
+      "ingredient_refs": [
+        "almond:puree",
+        "oatmeal",
+        "olive-oil:extra-virgin",
+        "raisin",
+        "walnut",
+        "yogurt:natural"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-134",
+      "page_num": 134,
+      "name": "For The Immune System",
+      "category": "Fortifying Smoothies",
+      "ingredient_refs": [
+        "apple",
+        "broccoli",
+        "carrot",
+        "curcuma",
+        "ginger",
+        "lemon:juice",
+        "red-pepper"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-140",
+      "page_num": 140,
+      "name": "For The Skin",
+      "category": "Fortifying Smoothies",
+      "ingredient_refs": [
+        "blueberry",
+        "broccoli",
+        "coconut-water",
+        "yogurt:natural"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-138",
+      "page_num": 138,
+      "name": "For Vitality",
+      "category": "Fortifying Smoothies",
+      "ingredient_refs": [
+        "acai-berry:powdered",
+        "cacao:bean",
+        "ginseng",
+        "oatmeal"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-16",
+      "page_num": 16,
+      "name": "Ginger And Lime",
+      "category": "Detox Infusions",
+      "ingredient_refs": [
+        "ginger",
+        "honey",
+        "lime:juice",
+        "lime:zest"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-116",
+      "page_num": 116,
+      "name": "Grapefruit And Lime",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "grapefruit",
+        "kiwi",
+        "lettuce",
+        "lime",
+        "raisin"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-72",
+      "page_num": 72,
+      "name": "Green Harmony",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "apple",
+        "celery",
+        "cucumber",
+        "kale",
+        "lemon"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-52",
+      "page_num": 52,
+      "name": "Green Tea And Mandarin",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "green-tea",
+        "mandarin",
+        "mint"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-48",
+      "page_num": 48,
+      "name": "Green Vegetables And Apple",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "apple",
+        "cucumber",
+        "honey",
+        "kale",
+        "lemon:juice",
+        "parsley",
+        "spinach"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-82",
+      "page_num": 82,
+      "name": "Grenade And Carbon",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "apple",
+        "blueberry",
+        "carbon:active",
+        "grenade:juice",
+        "kale",
+        "lemon"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-40",
+      "page_num": 40,
+      "name": "Harmony In Green And Red",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "banana",
+        "currant",
+        "goji:berries",
+        "mango",
+        "raspberry",
+        "spinach"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-128",
+      "page_num": 128,
+      "name": "Kale And Black Berries",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "blueberry",
+        "carbon:active",
+        "kale",
+        "lemon:juice"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-24",
+      "page_num": 24,
+      "name": "Lavender And Honey",
+      "category": "Detox Infusions",
+      "ingredient_refs": [
+        "honey"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-38",
+      "page_num": 38,
+      "name": "Lemon And Cayenne Pepper",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "almond:milk",
+        "apple",
+        "cayenne-pepper",
+        "lemon"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-20",
+      "page_num": 20,
+      "name": "Lemon, Laurel And Coriander",
+      "category": "Detox Infusions",
+      "ingredient_refs": [
+        "coriander:grains",
+        "laurel:leafs",
+        "lemon:juice"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-42",
+      "page_num": 42,
+      "name": "Lettuce And Spiruline",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "apple",
+        "lemon",
+        "lettuce",
+        "pineapple",
+        "spiruline"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-68",
+      "page_num": 68,
+      "name": "Life In Pink",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "grapefruit",
+        "raspberry"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-22",
+      "page_num": 22,
+      "name": "Matcha And Mint",
+      "category": "Detox Infusions",
+      "ingredient_refs": [
+        "matcha-powder",
+        "mint",
+        "vanilla:extract"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-112",
+      "page_num": 112,
+      "name": "Melon And Ginger",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "cucumber",
+        "ginger",
+        "lemon:juice",
+        "melon",
+        "mint"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-76",
+      "page_num": 76,
+      "name": "Milk And Lime",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "almond:milk",
+        "apple",
+        "celery",
+        "coconut-oil",
+        "cucumber",
+        "kale",
+        "lime:juice",
+        "pineapple"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-62",
+      "page_num": 62,
+      "name": "Minted Melon",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "apple:juice",
+        "cucumber",
+        "mango",
+        "melon",
+        "mint",
+        "spinach",
+        "yogurt:natural"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-66",
+      "page_num": 66,
+      "name": "Mixed Grains And Fruits",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "banana",
+        "blackberry",
+        "orange:juice",
+        "walnut",
+        "yogurt:natural"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-58",
+      "page_num": 58,
+      "name": "Muse Of Breakfast",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "apple",
+        "banana",
+        "blueberry",
+        "mango",
+        "oatmeal",
+        "yogurt:natural"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-88",
+      "page_num": 88,
+      "name": "Orange Harmony",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "ginger",
+        "lemon",
+        "mint",
+        "orange",
+        "pineapple",
+        "sweet-potato"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-34",
+      "page_num": 34,
+      "name": "Pear And Apple",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "apple",
+        "lemon",
+        "lettuce",
+        "pear",
+        "spinach"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-94",
+      "page_num": 94,
+      "name": "Pear And Celery With Lemon",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "celery",
+        "cucumber",
+        "kale",
+        "lemon",
+        "pear"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-78",
+      "page_num": 78,
+      "name": "Peppered Mango",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "avocado",
+        "blueberry",
+        "cayenne-pepper",
+        "coconut-water",
+        "kale",
+        "lemon:juice",
+        "lin:seeds",
+        "mango"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-86",
+      "page_num": 86,
+      "name": "Pineapple And Acai Berry",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "acai-berry:powdered",
+        "apple",
+        "orange",
+        "pineapple"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-64",
+      "page_num": 64,
+      "name": "Pineapple And Carbon",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "apple",
+        "carbon:active",
+        "coconut-milk",
+        "kale",
+        "lin:seeds",
+        "pineapple"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-90",
+      "page_num": 90,
+      "name": "Pineapple And Kale Leafs",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "apple",
+        "kale",
+        "mint",
+        "orange",
+        "pineapple",
+        "spinach"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-46",
+      "page_num": 46,
+      "name": "Pineapple And Lin Seed",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "banana",
+        "coconut-water",
+        "lin:seeds",
+        "mango",
+        "pineapple",
+        "spinach"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-70",
+      "page_num": 70,
+      "name": "Pineapple And Parsley",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "celery",
+        "coconut-water",
+        "coconut-yogurt",
+        "ginger",
+        "lemon",
+        "parsley",
+        "pineapple"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-30",
+      "page_num": 30,
+      "name": "Pineapple Frappe",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "avocado",
+        "pineapple",
+        "spinach"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-104",
+      "page_num": 104,
+      "name": "Raisins And Apple",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "apple",
+        "avocado",
+        "cucumber",
+        "lemon:juice",
+        "raisin"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-36",
+      "page_num": 36,
+      "name": "Red Beet",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "apple",
+        "beet",
+        "carrot",
+        "ginger",
+        "lemon"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-102",
+      "page_num": 102,
+      "name": "Red Harmony",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "beet",
+        "blackberry",
+        "blueberry",
+        "lettuce",
+        "parsley",
+        "raspberry",
+        "spinach"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-114",
+      "page_num": 114,
+      "name": "Slimming Kiwi",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "apple",
+        "celery",
+        "kiwi",
+        "spinach"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-80",
+      "page_num": 80,
+      "name": "Spiced Mango And Banana",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "almond:milk",
+        "banana",
+        "chia:grains",
+        "cinnamon",
+        "curcuma",
+        "ginger",
+        "honey",
+        "mango"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-120",
+      "page_num": 120,
+      "name": "Spicy Mint",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "apple",
+        "celery",
+        "cucumber",
+        "jalapeno",
+        "mint"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-110",
+      "page_num": 110,
+      "name": "Strawberry And Blueberry",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "blueberry",
+        "kale",
+        "spinach",
+        "strawberry"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-32",
+      "page_num": 32,
+      "name": "Summer Mint",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "apple",
+        "mint",
+        "orange"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-50",
+      "page_num": 50,
+      "name": "The Detox Ace",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "apple",
+        "beet",
+        "carrot",
+        "ginger",
+        "lemon",
+        "pear"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-144",
+      "page_num": 144,
+      "name": "To Alleviate Inflammations",
+      "category": "Fortifying Smoothies",
+      "ingredient_refs": [
+        "beet",
+        "blueberry",
+        "curcuma",
+        "green-tea",
+        "olive-oil:extra-virgin",
+        "raisin",
+        "raspberry"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-124",
+      "page_num": 124,
+      "name": "Velvety Curcuma",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "almond:milk",
+        "cinnamon",
+        "clove",
+        "curcuma",
+        "ginger",
+        "pear"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-54",
+      "page_num": 54,
+      "name": "Violet Cloud",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "almond:milk",
+        "banana",
+        "blueberry",
+        "kale"
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "id": "detox-smoothies-100",
+      "page_num": 100,
+      "name": "Yogurt And Carrot",
+      "category": "Detox Smoothies",
+      "ingredient_refs": [
+        "carrot",
+        "chia:grains",
+        "ginger",
+        "hazelnut:milk",
+        "yogurt:natural"
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "id": "acai-berry:powdered",
+      "name": "Acai Berry",
+      "subtype": "powdered",
+      "search_key": "Acai Berry (powdered)",
+      "recipe_refs": [
+        "detox-smoothies-86",
+        "detox-smoothies-138"
+      ]
+    },
+    {
+      "id": "almond",
+      "name": "Almond",
+      "subtype": null,
+      "search_key": "Almond",
+      "recipe_refs": [
+        "detox-smoothies-74",
+        "detox-smoothies-108"
+      ]
+    },
+    {
+      "id": "almond:milk",
+      "name": "Almond",
+      "subtype": "milk",
+      "search_key": "Almond (milk)",
+      "recipe_refs": [
+        "detox-smoothies-38",
+        "detox-smoothies-54",
+        "detox-smoothies-76",
+        "detox-smoothies-80",
+        "detox-smoothies-98",
+        "detox-smoothies-108",
+        "detox-smoothies-122",
+        "detox-smoothies-124",
+        "detox-smoothies-132"
+      ]
+    },
+    {
+      "id": "almond:puree",
+      "name": "Almond",
+      "subtype": "puree",
+      "search_key": "Almond (puree)",
+      "recipe_refs": [
+        "detox-smoothies-74",
+        "detox-smoothies-118",
+        "detox-smoothies-156"
+      ]
+    },
+    {
+      "id": "apple",
+      "name": "Apple",
+      "subtype": null,
+      "search_key": "Apple",
+      "recipe_refs": [
+        "detox-smoothies-32",
+        "detox-smoothies-34",
+        "detox-smoothies-36",
+        "detox-smoothies-38",
+        "detox-smoothies-42",
+        "detox-smoothies-44",
+        "detox-smoothies-48",
+        "detox-smoothies-50",
+        "detox-smoothies-58",
+        "detox-smoothies-64",
+        "detox-smoothies-72",
+        "detox-smoothies-76",
+        "detox-smoothies-82",
+        "detox-smoothies-84",
+        "detox-smoothies-86",
+        "detox-smoothies-90",
+        "detox-smoothies-96",
+        "detox-smoothies-104",
+        "detox-smoothies-114",
+        "detox-smoothies-120",
+        "detox-smoothies-122",
+        "detox-smoothies-126",
+        "detox-smoothies-134",
+        "detox-smoothies-152"
+      ]
+    },
+    {
+      "id": "apple:juice",
+      "name": "Apple",
+      "subtype": "juice",
+      "search_key": "Apple (juice)",
+      "recipe_refs": [
+        "detox-smoothies-60",
+        "detox-smoothies-62"
+      ]
+    },
+    {
+      "id": "avocado",
+      "name": "Avocado",
+      "subtype": null,
+      "search_key": "Avocado",
+      "recipe_refs": [
+        "detox-smoothies-30",
+        "detox-smoothies-60",
+        "detox-smoothies-78",
+        "detox-smoothies-98",
+        "detox-smoothies-104"
+      ]
+    },
+    {
+      "id": "banana",
+      "name": "Banana",
+      "subtype": null,
+      "search_key": "Banana",
+      "recipe_refs": [
+        "detox-smoothies-28",
+        "detox-smoothies-40",
+        "detox-smoothies-44",
+        "detox-smoothies-46",
+        "detox-smoothies-54",
+        "detox-smoothies-56",
+        "detox-smoothies-58",
+        "detox-smoothies-66",
+        "detox-smoothies-74",
+        "detox-smoothies-80"
+      ]
+    },
+    {
+      "id": "beet",
+      "name": "Beet",
+      "subtype": null,
+      "search_key": "Beet",
+      "recipe_refs": [
+        "detox-smoothies-36",
+        "detox-smoothies-50",
+        "detox-smoothies-92",
+        "detox-smoothies-102",
+        "detox-smoothies-144",
+        "detox-smoothies-146",
+        "detox-smoothies-148"
+      ]
+    },
+    {
+      "id": "blackberry",
+      "name": "Blackberry",
+      "subtype": null,
+      "search_key": "Blackberry",
+      "recipe_refs": [
+        "detox-smoothies-28",
+        "detox-smoothies-66",
+        "detox-smoothies-102",
+        "detox-smoothies-108"
+      ]
+    },
+    {
+      "id": "blueberry",
+      "name": "Blueberry",
+      "subtype": null,
+      "search_key": "Blueberry",
+      "recipe_refs": [
+        "detox-smoothies-54",
+        "detox-smoothies-58",
+        "detox-smoothies-78",
+        "detox-smoothies-82",
+        "detox-smoothies-84",
+        "detox-smoothies-102",
+        "detox-smoothies-110",
+        "detox-smoothies-128",
+        "detox-smoothies-132",
+        "detox-smoothies-140",
+        "detox-smoothies-142",
+        "detox-smoothies-144",
+        "detox-smoothies-146"
+      ]
+    },
+    {
+      "id": "brazilian-nuts",
+      "name": "Brazilian Nuts",
+      "subtype": null,
+      "search_key": "Brazilian Nuts",
+      "recipe_refs": [
+        "detox-smoothies-154"
+      ]
+    },
+    {
+      "id": "broccoli",
+      "name": "Broccoli",
+      "subtype": null,
+      "search_key": "Broccoli",
+      "recipe_refs": [
+        "detox-smoothies-134",
+        "detox-smoothies-140",
+        "detox-smoothies-146",
+        "detox-smoothies-154"
+      ]
+    },
+    {
+      "id": "cacao:bean",
+      "name": "Cacao",
+      "subtype": "bean",
+      "search_key": "Cacao (bean)",
+      "recipe_refs": [
+        "detox-smoothies-118",
+        "detox-smoothies-138"
+      ]
+    },
+    {
+      "id": "carbon:active",
+      "name": "Carbon",
+      "subtype": "active",
+      "search_key": "Carbon (active)",
+      "recipe_refs": [
+        "detox-smoothies-64",
+        "detox-smoothies-82",
+        "detox-smoothies-96",
+        "detox-smoothies-128"
+      ]
+    },
+    {
+      "id": "carrot",
+      "name": "Carrot",
+      "subtype": null,
+      "search_key": "Carrot",
+      "recipe_refs": [
+        "detox-smoothies-36",
+        "detox-smoothies-50",
+        "detox-smoothies-60",
+        "detox-smoothies-92",
+        "detox-smoothies-100",
+        "detox-smoothies-126",
+        "detox-smoothies-134",
+        "detox-smoothies-148",
+        "detox-smoothies-152"
+      ]
+    },
+    {
+      "id": "cashew-nuts",
+      "name": "Cashew Nuts",
+      "subtype": null,
+      "search_key": "Cashew Nuts",
+      "recipe_refs": [
+        "detox-smoothies-136",
+        "detox-smoothies-154"
+      ]
+    },
+    {
+      "id": "cayenne-pepper",
+      "name": "Cayenne Pepper",
+      "subtype": null,
+      "search_key": "Cayenne Pepper",
+      "recipe_refs": [
+        "detox-smoothies-38",
+        "detox-smoothies-78"
+      ]
+    },
+    {
+      "id": "celery",
+      "name": "Celery",
+      "subtype": null,
+      "search_key": "Celery",
+      "recipe_refs": [
+        "detox-smoothies-60",
+        "detox-smoothies-70",
+        "detox-smoothies-72",
+        "detox-smoothies-76",
+        "detox-smoothies-94",
+        "detox-smoothies-114",
+        "detox-smoothies-120",
+        "detox-smoothies-126",
+        "detox-smoothies-152"
+      ]
+    },
+    {
+      "id": "chia:grains",
+      "name": "Chia",
+      "subtype": "grains",
+      "search_key": "Chia (grains)",
+      "recipe_refs": [
+        "detox-smoothies-28",
+        "detox-smoothies-80",
+        "detox-smoothies-98",
+        "detox-smoothies-100",
+        "detox-smoothies-142",
+        "detox-smoothies-150",
+        "detox-smoothies-152"
+      ]
+    },
+    {
+      "id": "cinnamon",
+      "name": "Cinnamon",
+      "subtype": null,
+      "search_key": "Cinnamon",
+      "recipe_refs": [
+        "detox-smoothies-14",
+        "detox-smoothies-80",
+        "detox-smoothies-108",
+        "detox-smoothies-124"
+      ]
+    },
+    {
+      "id": "clove",
+      "name": "Clove",
+      "subtype": null,
+      "search_key": "Clove",
+      "recipe_refs": [
+        "detox-smoothies-14",
+        "detox-smoothies-124"
+      ]
+    },
+    {
+      "id": "coconut-milk",
+      "name": "Coconut Milk",
+      "subtype": null,
+      "search_key": "Coconut Milk",
+      "recipe_refs": [
+        "detox-smoothies-64"
+      ]
+    },
+    {
+      "id": "coconut-oil",
+      "name": "Coconut Oil",
+      "subtype": null,
+      "search_key": "Coconut Oil",
+      "recipe_refs": [
+        "detox-smoothies-76"
+      ]
+    },
+    {
+      "id": "coconut-water",
+      "name": "Coconut Water",
+      "subtype": null,
+      "search_key": "Coconut Water",
+      "recipe_refs": [
+        "detox-smoothies-46",
+        "detox-smoothies-56",
+        "detox-smoothies-70",
+        "detox-smoothies-78",
+        "detox-smoothies-140"
+      ]
+    },
+    {
+      "id": "coconut-yogurt",
+      "name": "Coconut Yogurt",
+      "subtype": null,
+      "search_key": "Coconut Yogurt",
+      "recipe_refs": [
+        "detox-smoothies-60",
+        "detox-smoothies-70",
+        "detox-smoothies-92",
+        "detox-smoothies-108"
+      ]
+    },
+    {
+      "id": "coriander:grains",
+      "name": "Coriander",
+      "subtype": "grains",
+      "search_key": "Coriander (grains)",
+      "recipe_refs": [
+        "detox-smoothies-20"
+      ]
+    },
+    {
+      "id": "cucumber",
+      "name": "Cucumber",
+      "subtype": null,
+      "search_key": "Cucumber",
+      "recipe_refs": [
+        "detox-smoothies-48",
+        "detox-smoothies-56",
+        "detox-smoothies-62",
+        "detox-smoothies-72",
+        "detox-smoothies-76",
+        "detox-smoothies-84",
+        "detox-smoothies-94",
+        "detox-smoothies-104",
+        "detox-smoothies-106",
+        "detox-smoothies-112",
+        "detox-smoothies-120",
+        "detox-smoothies-122",
+        "detox-smoothies-152"
+      ]
+    },
+    {
+      "id": "curcuma",
+      "name": "Curcuma",
+      "subtype": null,
+      "search_key": "Curcuma",
+      "recipe_refs": [
+        "detox-smoothies-18",
+        "detox-smoothies-80",
+        "detox-smoothies-124",
+        "detox-smoothies-134",
+        "detox-smoothies-144"
+      ]
+    },
+    {
+      "id": "currant",
+      "name": "Currant",
+      "subtype": null,
+      "search_key": "Currant",
+      "recipe_refs": [
+        "detox-smoothies-40"
+      ]
+    },
+    {
+      "id": "dandelion:leafs",
+      "name": "Dandelion",
+      "subtype": "leafs",
+      "search_key": "Dandelion (leafs)",
+      "recipe_refs": [
+        "detox-smoothies-148"
+      ]
+    },
+    {
+      "id": "fennel:seeds",
+      "name": "Fennel",
+      "subtype": "seeds",
+      "search_key": "Fennel (seeds)",
+      "recipe_refs": [
+        "detox-smoothies-18"
+      ]
+    },
+    {
+      "id": "garlic",
+      "name": "Garlic",
+      "subtype": null,
+      "search_key": "Garlic",
+      "recipe_refs": [
+        "detox-smoothies-148"
+      ]
+    },
+    {
+      "id": "ginger",
+      "name": "Ginger",
+      "subtype": null,
+      "search_key": "Ginger",
+      "recipe_refs": [
+        "detox-smoothies-16",
+        "detox-smoothies-28",
+        "detox-smoothies-36",
+        "detox-smoothies-50",
+        "detox-smoothies-56",
+        "detox-smoothies-60",
+        "detox-smoothies-70",
+        "detox-smoothies-80",
+        "detox-smoothies-84",
+        "detox-smoothies-88",
+        "detox-smoothies-92",
+        "detox-smoothies-96",
+        "detox-smoothies-100",
+        "detox-smoothies-112",
+        "detox-smoothies-122",
+        "detox-smoothies-124",
+        "detox-smoothies-134",
+        "detox-smoothies-152"
+      ]
+    },
+    {
+      "id": "ginseng",
+      "name": "Ginseng",
+      "subtype": null,
+      "search_key": "Ginseng",
+      "recipe_refs": [
+        "detox-smoothies-138"
+      ]
+    },
+    {
+      "id": "goji:berries",
+      "name": "Goji",
+      "subtype": "berries",
+      "search_key": "Goji (berries)",
+      "recipe_refs": [
+        "detox-smoothies-40",
+        "detox-smoothies-146"
+      ]
+    },
+    {
+      "id": "grapefruit",
+      "name": "Grapefruit",
+      "subtype": null,
+      "search_key": "Grapefruit",
+      "recipe_refs": [
+        "detox-smoothies-68",
+        "detox-smoothies-116",
+        "detox-smoothies-146"
+      ]
+    },
+    {
+      "id": "green-tea",
+      "name": "Green Tea",
+      "subtype": null,
+      "search_key": "Green Tea",
+      "recipe_refs": [
+        "detox-smoothies-52",
+        "detox-smoothies-144",
+        "detox-smoothies-146"
+      ]
+    },
+    {
+      "id": "grenade:seeds",
+      "name": "Grenade",
+      "subtype": "seeds",
+      "search_key": "Grenade (seeds)",
+      "recipe_refs": [
+        "detox-smoothies-146"
+      ]
+    },
+    {
+      "id": "grenade:juice",
+      "name": "Grenade",
+      "subtype": "juice",
+      "search_key": "Grenade (juice)",
+      "recipe_refs": [
+        "detox-smoothies-82"
+      ]
+    },
+    {
+      "id": "hazelnut",
+      "name": "Hazelnut",
+      "subtype": null,
+      "search_key": "Hazelnut",
+      "recipe_refs": [
+        "detox-smoothies-118"
+      ]
+    },
+    {
+      "id": "hazelnut:milk",
+      "name": "Hazelnut",
+      "subtype": "milk",
+      "search_key": "Hazelnut (milk)",
+      "recipe_refs": [
+        "detox-smoothies-100",
+        "detox-smoothies-118"
+      ]
+    },
+    {
+      "id": "hemp:seeds",
+      "name": "Hemp",
+      "subtype": "seeds",
+      "search_key": "Hemp (seeds)",
+      "recipe_refs": [
+        "detox-smoothies-84",
+        "detox-smoothies-152"
+      ]
+    },
+    {
+      "id": "honey",
+      "name": "Honey",
+      "subtype": null,
+      "search_key": "Honey",
+      "recipe_refs": [
+        "detox-smoothies-14",
+        "detox-smoothies-16",
+        "detox-smoothies-24",
+        "detox-smoothies-28",
+        "detox-smoothies-48",
+        "detox-smoothies-80",
+        "detox-smoothies-118",
+        "detox-smoothies-122",
+        "detox-smoothies-136",
+        "detox-smoothies-148",
+        "detox-smoothies-154"
+      ]
+    },
+    {
+      "id": "jalapeno",
+      "name": "Jalapeno",
+      "subtype": null,
+      "search_key": "Jalapeno",
+      "recipe_refs": [
+        "detox-smoothies-120",
+        "detox-smoothies-126"
+      ]
+    },
+    {
+      "id": "kale",
+      "name": "Kale",
+      "subtype": null,
+      "search_key": "Kale",
+      "recipe_refs": [
+        "detox-smoothies-48",
+        "detox-smoothies-54",
+        "detox-smoothies-64",
+        "detox-smoothies-72",
+        "detox-smoothies-76",
+        "detox-smoothies-78",
+        "detox-smoothies-82",
+        "detox-smoothies-84",
+        "detox-smoothies-90",
+        "detox-smoothies-94",
+        "detox-smoothies-110",
+        "detox-smoothies-128",
+        "detox-smoothies-154"
+      ]
+    },
+    {
+      "id": "kefir",
+      "name": "Kefir",
+      "subtype": null,
+      "search_key": "Kefir",
+      "recipe_refs": [
+        "detox-smoothies-150"
+      ]
+    },
+    {
+      "id": "kiwi",
+      "name": "Kiwi",
+      "subtype": null,
+      "search_key": "Kiwi",
+      "recipe_refs": [
+        "detox-smoothies-114",
+        "detox-smoothies-116"
+      ]
+    },
+    {
+      "id": "laurel:leafs",
+      "name": "Laurel",
+      "subtype": "leafs",
+      "search_key": "Laurel (leafs)",
+      "recipe_refs": [
+        "detox-smoothies-20"
+      ]
+    },
+    {
+      "id": "lemon",
+      "name": "Lemon",
+      "subtype": null,
+      "search_key": "Lemon",
+      "recipe_refs": [
+        "detox-smoothies-34",
+        "detox-smoothies-36",
+        "detox-smoothies-38",
+        "detox-smoothies-42",
+        "detox-smoothies-50",
+        "detox-smoothies-70",
+        "detox-smoothies-72",
+        "detox-smoothies-82",
+        "detox-smoothies-88",
+        "detox-smoothies-94"
+      ]
+    },
+    {
+      "id": "lemon:juice",
+      "name": "Lemon",
+      "subtype": "juice",
+      "search_key": "Lemon (juice)",
+      "recipe_refs": [
+        "detox-smoothies-20",
+        "detox-smoothies-48",
+        "detox-smoothies-74",
+        "detox-smoothies-78",
+        "detox-smoothies-104",
+        "detox-smoothies-112",
+        "detox-smoothies-128",
+        "detox-smoothies-134",
+        "detox-smoothies-148"
+      ]
+    },
+    {
+      "id": "lettuce",
+      "name": "Lettuce",
+      "subtype": null,
+      "search_key": "Lettuce",
+      "recipe_refs": [
+        "detox-smoothies-34",
+        "detox-smoothies-42",
+        "detox-smoothies-102",
+        "detox-smoothies-116"
+      ]
+    },
+    {
+      "id": "lime",
+      "name": "Lime",
+      "subtype": null,
+      "search_key": "Lime",
+      "recipe_refs": [
+        "detox-smoothies-116"
+      ]
+    },
+    {
+      "id": "lime:juice",
+      "name": "Lime",
+      "subtype": "juice",
+      "search_key": "Lime (juice)",
+      "recipe_refs": [
+        "detox-smoothies-16",
+        "detox-smoothies-76"
+      ]
+    },
+    {
+      "id": "lime:zest",
+      "name": "Lime",
+      "subtype": "zest",
+      "search_key": "Lime (zest)",
+      "recipe_refs": [
+        "detox-smoothies-16"
+      ]
+    },
+    {
+      "id": "lin:seeds",
+      "name": "Lin",
+      "subtype": "seeds",
+      "search_key": "Lin (seeds)",
+      "recipe_refs": [
+        "detox-smoothies-46",
+        "detox-smoothies-64",
+        "detox-smoothies-74",
+        "detox-smoothies-78",
+        "detox-smoothies-142",
+        "detox-smoothies-150"
+      ]
+    },
+    {
+      "id": "mandarin",
+      "name": "Mandarin",
+      "subtype": null,
+      "search_key": "Mandarin",
+      "recipe_refs": [
+        "detox-smoothies-52"
+      ]
+    },
+    {
+      "id": "mango",
+      "name": "Mango",
+      "subtype": null,
+      "search_key": "Mango",
+      "recipe_refs": [
+        "detox-smoothies-40",
+        "detox-smoothies-44",
+        "detox-smoothies-46",
+        "detox-smoothies-58",
+        "detox-smoothies-62",
+        "detox-smoothies-78",
+        "detox-smoothies-80"
+      ]
+    },
+    {
+      "id": "matcha-powder",
+      "name": "Matcha Powder",
+      "subtype": null,
+      "search_key": "Matcha Powder",
+      "recipe_refs": [
+        "detox-smoothies-22"
+      ]
+    },
+    {
+      "id": "melon",
+      "name": "Melon",
+      "subtype": null,
+      "search_key": "Melon",
+      "recipe_refs": [
+        "detox-smoothies-62",
+        "detox-smoothies-112"
+      ]
+    },
+    {
+      "id": "mint",
+      "name": "Mint",
+      "subtype": null,
+      "search_key": "Mint",
+      "recipe_refs": [
+        "detox-smoothies-22",
+        "detox-smoothies-32",
+        "detox-smoothies-52",
+        "detox-smoothies-62",
+        "detox-smoothies-88",
+        "detox-smoothies-90",
+        "detox-smoothies-96",
+        "detox-smoothies-106",
+        "detox-smoothies-112",
+        "detox-smoothies-120"
+      ]
+    },
+    {
+      "id": "oatmeal",
+      "name": "Oatmeal",
+      "subtype": null,
+      "search_key": "Oatmeal",
+      "recipe_refs": [
+        "detox-smoothies-58",
+        "detox-smoothies-132",
+        "detox-smoothies-138",
+        "detox-smoothies-154",
+        "detox-smoothies-156"
+      ]
+    },
+    {
+      "id": "olive-oil:extra-virgin",
+      "name": "Olive Oil",
+      "subtype": "extra virgin",
+      "search_key": "Olive Oil (extra virgin)",
+      "recipe_refs": [
+        "detox-smoothies-144",
+        "detox-smoothies-156"
+      ]
+    },
+    {
+      "id": "orange",
+      "name": "Orange",
+      "subtype": null,
+      "search_key": "Orange",
+      "recipe_refs": [
+        "detox-smoothies-32",
+        "detox-smoothies-86",
+        "detox-smoothies-88",
+        "detox-smoothies-90"
+      ]
+    },
+    {
+      "id": "orange:zest",
+      "name": "Orange",
+      "subtype": "zest",
+      "search_key": "Orange (zest)",
+      "recipe_refs": [
+        "detox-smoothies-14"
+      ]
+    },
+    {
+      "id": "orange:juice",
+      "name": "Orange",
+      "subtype": "juice",
+      "search_key": "Orange (juice)",
+      "recipe_refs": [
+        "detox-smoothies-66"
+      ]
+    },
+    {
+      "id": "parsley",
+      "name": "Parsley",
+      "subtype": null,
+      "search_key": "Parsley",
+      "recipe_refs": [
+        "detox-smoothies-48",
+        "detox-smoothies-70",
+        "detox-smoothies-102",
+        "detox-smoothies-106",
+        "detox-smoothies-122",
+        "detox-smoothies-126"
+      ]
+    },
+    {
+      "id": "peanuts:puree",
+      "name": "Peanuts",
+      "subtype": "puree",
+      "search_key": "Peanuts (puree)",
+      "recipe_refs": [
+        "detox-smoothies-98"
+      ]
+    },
+    {
+      "id": "pear",
+      "name": "Pear",
+      "subtype": null,
+      "search_key": "Pear",
+      "recipe_refs": [
+        "detox-smoothies-34",
+        "detox-smoothies-44",
+        "detox-smoothies-50",
+        "detox-smoothies-94",
+        "detox-smoothies-124"
+      ]
+    },
+    {
+      "id": "pineapple",
+      "name": "Pineapple",
+      "subtype": null,
+      "search_key": "Pineapple",
+      "recipe_refs": [
+        "detox-smoothies-30",
+        "detox-smoothies-42",
+        "detox-smoothies-46",
+        "detox-smoothies-64",
+        "detox-smoothies-70",
+        "detox-smoothies-76",
+        "detox-smoothies-86",
+        "detox-smoothies-88",
+        "detox-smoothies-90",
+        "detox-smoothies-96"
+      ]
+    },
+    {
+      "id": "psyllium",
+      "name": "Psyllium",
+      "subtype": null,
+      "search_key": "Psyllium",
+      "recipe_refs": [
+        "detox-smoothies-132"
+      ]
+    },
+    {
+      "id": "pumpkin:seeds",
+      "name": "Pumpkin",
+      "subtype": "seeds",
+      "search_key": "Pumpkin (seeds)",
+      "recipe_refs": [
+        "detox-smoothies-136"
+      ]
+    },
+    {
+      "id": "raisin",
+      "name": "Raisin",
+      "subtype": null,
+      "search_key": "Raisin",
+      "recipe_refs": [
+        "detox-smoothies-84",
+        "detox-smoothies-104",
+        "detox-smoothies-106",
+        "detox-smoothies-116",
+        "detox-smoothies-144",
+        "detox-smoothies-156"
+      ]
+    },
+    {
+      "id": "raspberry",
+      "name": "Raspberry",
+      "subtype": null,
+      "search_key": "Raspberry",
+      "recipe_refs": [
+        "detox-smoothies-28",
+        "detox-smoothies-40",
+        "detox-smoothies-44",
+        "detox-smoothies-68",
+        "detox-smoothies-74",
+        "detox-smoothies-102",
+        "detox-smoothies-142",
+        "detox-smoothies-144"
+      ]
+    },
+    {
+      "id": "red-pepper",
+      "name": "Red Pepper",
+      "subtype": null,
+      "search_key": "Red Pepper",
+      "recipe_refs": [
+        "detox-smoothies-126",
+        "detox-smoothies-134"
+      ]
+    },
+    {
+      "id": "soy:milk",
+      "name": "Soy",
+      "subtype": "milk",
+      "search_key": "Soy (milk)",
+      "recipe_refs": [
+        "detox-smoothies-154"
+      ]
+    },
+    {
+      "id": "spinach",
+      "name": "Spinach",
+      "subtype": null,
+      "search_key": "Spinach",
+      "recipe_refs": [
+        "detox-smoothies-30",
+        "detox-smoothies-34",
+        "detox-smoothies-40",
+        "detox-smoothies-44",
+        "detox-smoothies-46",
+        "detox-smoothies-48",
+        "detox-smoothies-62",
+        "detox-smoothies-74",
+        "detox-smoothies-90",
+        "detox-smoothies-92",
+        "detox-smoothies-102",
+        "detox-smoothies-106",
+        "detox-smoothies-110",
+        "detox-smoothies-114",
+        "detox-smoothies-122",
+        "detox-smoothies-132",
+        "detox-smoothies-136",
+        "detox-smoothies-148"
+      ]
+    },
+    {
+      "id": "spiruline",
+      "name": "Spiruline",
+      "subtype": null,
+      "search_key": "Spiruline",
+      "recipe_refs": [
+        "detox-smoothies-42"
+      ]
+    },
+    {
+      "id": "strawberry",
+      "name": "Strawberry",
+      "subtype": null,
+      "search_key": "Strawberry",
+      "recipe_refs": [
+        "detox-smoothies-28",
+        "detox-smoothies-110"
+      ]
+    },
+    {
+      "id": "sunflower:seeds",
+      "name": "Sunflower",
+      "subtype": "seeds",
+      "search_key": "Sunflower (seeds)",
+      "recipe_refs": [
+        "detox-smoothies-136"
+      ]
+    },
+    {
+      "id": "sweet-potato",
+      "name": "Sweet Potato",
+      "subtype": null,
+      "search_key": "Sweet Potato",
+      "recipe_refs": [
+        "detox-smoothies-88"
+      ]
+    },
+    {
+      "id": "tomato",
+      "name": "Tomato",
+      "subtype": null,
+      "search_key": "Tomato",
+      "recipe_refs": [
+        "detox-smoothies-126"
+      ]
+    },
+    {
+      "id": "vanilla:extract",
+      "name": "Vanilla",
+      "subtype": "extract",
+      "search_key": "Vanilla (extract)",
+      "recipe_refs": [
+        "detox-smoothies-22"
+      ]
+    },
+    {
+      "id": "walnut",
+      "name": "Walnut",
+      "subtype": null,
+      "search_key": "Walnut",
+      "recipe_refs": [
+        "detox-smoothies-66",
+        "detox-smoothies-156"
+      ]
+    },
+    {
+      "id": "yogurt:natural",
+      "name": "Yogurt",
+      "subtype": "natural",
+      "search_key": "Yogurt (natural)",
+      "recipe_refs": [
+        "detox-smoothies-58",
+        "detox-smoothies-62",
+        "detox-smoothies-66",
+        "detox-smoothies-100",
+        "detox-smoothies-136",
+        "detox-smoothies-140",
+        "detox-smoothies-150",
+        "detox-smoothies-156"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+Acai berry; powdered 86, 138
+garlic 148
+almond 74, 108
+almond; milk 38, 54, 76, 80, 98, 108, 122, 124, 132
+almond; puree 74, 118, 156
+Pineapple 30, 42, 46, 64, 70, 76, 86, 88, 90, 96
+Oatmeal 58, 132, 138, 154, 156
+Avocado 30, 60, 78, 98, 104 
+Banana 28, 40, 44, 46, 54, 56, 58, 66, 74, 80
+Beet 36, 50, 92, 102, 144, 146, 148
+Broccoli 134, 140, 146, 154
+peanuts; puree 98
+Cacao; bean 118, 138
+Cinnamon 14, 80, 108, 124
+carrot 36, 50, 60, 92, 100, 126, 134, 148, 152
+celery 60, 70, 72, 76, 94, 114, 120, 126, 152
+hemp; seeds 84, 152 
+Carbon; active 64, 82, 96, 128
+Chia; grains 28, 80, 98, 100, 142, 150, 152
+lemon 34, 36, 38, 42, 50, 70, 72, 82, 88, 94
+lemon; juice 20, 48, 74, 78, 104, 112, 128, 134, 148
+lime 116
+lime; juice 16, 76
+lime; zest 16
+clove 14, 124
+coconut water 46, 56, 70, 78, 140
+coconut oil 76
+coconut milk 64
+coconut yogurt 60, 70, 92, 108
+cucumber 48, 56, 62, 72, 76, 84, 94, 104, 106, 112, 120, 122, 152
+Coriander; grains 20
+Pumpkin; seeds 136
+Curcuma 18, 80, 124, 134, 144
+spinach 30, 34, 40, 44, 46, 48, 62, 74, 90, 92, 102, 106, 110, 114, 122, 132, 136, 148
+fennel; seeds 18
+strawberry 28, 110
+raspberry 28, 40, 44, 68, 74, 102, 142, 144
+ginger 16, 28, 36, 50, 56, 60, 70, 80, 84, 88, 92, 96, 100, 112, 122, 124, 134, 152
+Ginseng 138
+Goji; berries 40, 146
+Grenade; seeds 146
+Grenade; juice 82
+currant 40 
+olive oil; extra virgin 144, 156
+Kale 48, 54, 64, 72, 76, 78, 82, 84, 90, 94, 110, 128, 154
+Kefir 150
+Kiwi 114, 116 
+lettuce 34, 42, 102, 116
+laurel; leafs 20
+Lin; seeds 46, 64, 74, 78, 142, 150 
+Mandarin 52
+Mango 40, 44, 46, 58, 62, 78, 80
+Melon 62, 112
+mint 22, 32, 52, 62, 88, 90, 96, 106, 112, 120
+honey 14, 16, 24, 28, 48, 80, 118, 122, 136, 148, 154
+blackberry 28, 66, 102, 108
+blueberry 54, 58, 78, 82, 84, 102, 110, 128, 132, 140, 142, 144, 146
+walnut 66, 156
+hazelnut 118
+hazelnut; milk 100, 118
+cashew nuts 136, 154
+brazilian nuts 154 
+Orange 32, 86, 88, 90
+Orange; zest 14
+Orange; juice 66
+grapefruit 68, 116, 146
+sweet potato 88
+parsley 48, 70, 102, 106, 122, 126
+jalapeno 120, 126
+dandelion; leafs 148
+pear 34, 44, 50, 94, 124
+Cayenne pepper 38, 78
+red pepper 126, 134
+apple 32, 34, 36, 38, 42, 44, 48, 50, 58, 64, 72, 76, 82, 84, 86, 90, 96, 104, 114, 120, 122, 126, 134, 152
+apple; juice 60, 62
+Psyllium 132 
+Raisin 84, 104, 106, 116, 144, 156 
+soy; milk 154
+Spiruline 42 
+matcha powder 22
+green tea 52, 144, 146
+Tomato 126
+sunflower; seeds 136 
+Vanilla; extract 22 
+yogurt; natural 58, 62, 66, 100, 136, 140, 150, 156
