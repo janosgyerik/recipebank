@@ -525,7 +525,8 @@
       "name": "Lavender And Honey",
       "category": "Detox Infusions",
       "ingredient_refs": [
-        "honey"
+        "honey",
+        "lavender:seeds"
       ]
     },
     {
@@ -1615,6 +1616,15 @@
       "search_key": "Laurel (leafs)",
       "recipe_refs": [
         "detox-smoothies-20"
+      ]
+    },
+    {
+      "id": "lavender:seeds",
+      "name": "Lavender",
+      "subtype": "seeds",
+      "search_key": "Lavender (seeds)",
+      "recipe_refs": [
+        "detox-smoothies-24"
       ]
     },
     {

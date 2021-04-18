@@ -47,6 +47,7 @@ Kefir 150
 Kiwi 114, 116 
 lettuce 34, 42, 102, 116
 laurel; leafs 20
+lavender; seeds 24
 Lin; seeds 46, 64, 74, 78, 142, 150 
 Mandarin 52
 Mango 40, 44, 46, 58, 62, 78, 80
