@@ -81,7 +81,7 @@
       "name": "Beet And Ginger",
       "category": "Detox Smoothies",
       "ingredient_refs": [
-        "beet",
+        "beetroot",
         "carrot",
         "coconut-yogurt",
         "ginger",
@@ -295,7 +295,7 @@
       "name": "For Nutrient Intake",
       "category": "Fortifying Smoothies",
       "ingredient_refs": [
-        "beet",
+        "beetroot",
         "blueberry",
         "broccoli",
         "goji:berries",
@@ -324,7 +324,7 @@
       "name": "For Purifying",
       "category": "Fortifying Smoothies",
       "ingredient_refs": [
-        "beet",
+        "beetroot",
         "carrot",
         "dandelion:leafs",
         "garlic",
@@ -835,7 +835,7 @@
       "category": "Detox Smoothies",
       "ingredient_refs": [
         "apple",
-        "beet",
+        "beetroot",
         "carrot",
         "ginger",
         "lemon"
@@ -848,7 +848,7 @@
       "name": "Red Harmony",
       "category": "Detox Smoothies",
       "ingredient_refs": [
-        "beet",
+        "beetroot",
         "blackberry",
         "blueberry",
         "lettuce",
@@ -934,7 +934,7 @@
       "category": "Detox Smoothies",
       "ingredient_refs": [
         "apple",
-        "beet",
+        "beetroot",
         "carrot",
         "ginger",
         "lemon",
@@ -948,7 +948,7 @@
       "name": "To Alleviate Inflammations",
       "category": "Fortifying Smoothies",
       "ingredient_refs": [
-        "beet",
+        "beetroot",
         "blueberry",
         "curcuma",
         "green-tea",
@@ -1123,10 +1123,10 @@
       ]
     },
     {
-      "id": "beet",
-      "name": "Beet",
+      "id": "beetroot",
+      "name": "Beetroot",
       "subtype": null,
-      "search_key": "Beet",
+      "search_key": "Beetroot",
       "recipe_refs": [
         "detox-smoothies-36",
         "detox-smoothies-50",
