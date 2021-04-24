@@ -23,12 +23,6 @@
     ingredientsIndex[ingredient.id] = ingredient;
   }
 
-  for (let recipe of recipes) {
-    recipe.ingredients = recipe.ingredient_refs.map(
-      (ref) => ingredientsIndex[ref]
-    );
-  }
-
   class RecipeFilterModel {
     constructor() {
       this.ingredients = [];

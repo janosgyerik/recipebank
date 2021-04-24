@@ -65,7 +65,7 @@ class Recipe:
         self.page_num = page_num
         self.name = normalized_name(name)
         self.category = normalized_name(category)
-        self.ingredient_refs = []
+        self.ingredients = []
 
 
 class MyEncoder(JSONEncoder):
@@ -81,7 +81,7 @@ class MyEncoder(JSONEncoder):
 def parse_ingredients():
     ingredients = []
 
-    with open('ingredients.txt') as fh:
+    with open('detox-smoothies/ingredients.txt') as fh:
         for line in fh:
             match = re_ingredient.match(line)
             if match is None:
@@ -103,7 +103,7 @@ def parse_ingredients():
 def parse_recipes():
     recipes = []
 
-    with open('recipes.txt') as fh:
+    with open('detox-smoothies/recipes.txt') as fh:
         category = None
         for line in fh:
             line = line.rstrip()
@@ -125,16 +125,16 @@ def parse_recipes():
     return recipes
 
 
-def fill_refs(recipes, ingredients):
+def fill_cross_references(recipes, ingredients):
     page_num_to_recipe = {r.page_num: r for r in recipes}
 
     for ingredient in ingredients:
         for page_num in ingredient.recipe_page_nums:
             recipe = page_num_to_recipe[page_num]
-            recipe.ingredient_refs.append(ingredient.id)
+            recipe.ingredients.append(ingredient)
             ingredient.recipe_refs.append(recipe.id)
 
-    assert all(x.ingredient_refs for x in recipes)
+    assert all(x.ingredients for x in recipes)
     assert all(x.recipe_refs for x in ingredients)
 
 
@@ -142,7 +142,7 @@ def main():
     ingredients = parse_ingredients()
     recipes = parse_recipes()
 
-    fill_refs(recipes, ingredients)
+    fill_cross_references(recipes, ingredients)
 
     wrapped = {
         "recipes": recipes,
