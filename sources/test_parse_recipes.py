@@ -1,6 +1,7 @@
 import unittest
 
-from parse_recipes import slugify, compute_ingredient_id, compute_ingredient_search_key
+from parse_recipes import slugify, compute_ingredient_id, compute_ingredient_search_key, parse_ingredient_line, \
+    InvalidIngredientLine
 
 
 class MyTestCase(unittest.TestCase):
@@ -23,7 +24,27 @@ class MyTestCase(unittest.TestCase):
         self.assertEqual("Acai berry", compute_ingredient_search_key("Acai berry", None))
 
     def test_compute_ingredient_search_key_with_subtype(self):
-        self.assertEqual("Acai berry (sliced and diced)", compute_ingredient_search_key("Acai berry", 'sliced and diced'))
+        self.assertEqual("Acai berry (sliced and diced)",
+                         compute_ingredient_search_key("Acai berry", 'sliced and diced'))
+
+    def test_parse_ingredient_line(self):
+        line = "dandelion; leafs 22, 24"
+        ingredient = parse_ingredient_line(line)
+        self.assertEqual("dandelion:leafs", ingredient.id)
+        self.assertEqual("Dandelion", ingredient.name)
+        self.assertEqual("leafs", ingredient.subtype)
+        self.assertEqual([22, 24], ingredient.recipe_page_nums)
+
+    def test_parse_ingredient_line_raises_exception_for_invalid_specs(self):
+        invalid = [
+            "dandelion; leafs; more 22, 24",
+            "dandelion;; leafs 22, 24",
+            "dandelion;; leafs 22, 24, foo",
+        ]
+        for line in invalid:
+            def runnable():
+                parse_ingredient_line(line)
+            self.assertRaises(InvalidIngredientLine, runnable)
 
 
 if __name__ == '__main__':

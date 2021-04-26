@@ -78,24 +78,35 @@ class MyEncoder(JSONEncoder):
         return o.__dict__
 
 
+class InvalidIngredientLine(Exception):
+    def __init__(self, line):
+        super().__init__(f"line did not match pattern;\n"
+                         f"line = {line}"
+                         f"pattern = {re_ingredient.pattern}")
+
+
 def parse_ingredients(source):
     ingredients = []
 
     with open(f'{source}/ingredients.txt') as fh:
         for line in fh:
-            match = re_ingredient.match(line)
-            if match is None:
-                raise Exception(f"line did not match pattern;\nline = {line}\npattern = {re_ingredient.pattern}")
-
-            name = match.group('name')
-            subtype = match.group('subtype')
-            recipe_page_nums = [int(s) for s in match.group('recipe_page_nums').split(', ')]
-            assert all(recipe_page_nums[i - 1] < recipe_page_nums[i] for i in range(1, len(recipe_page_nums))), \
-                f"{name}:{subtype}, page nums not in ascending order: {recipe_page_nums}"
-
-            ingredients.append(Ingredient(name, subtype, recipe_page_nums))
+            ingredient = parse_ingredient_line(line)
+            ingredients.append(ingredient)
 
     return ingredients
+
+
+def parse_ingredient_line(line):
+    match = re_ingredient.match(line)
+    if match is None:
+        raise InvalidIngredientLine(line)
+    name = match.group('name')
+    subtype = match.group('subtype')
+    recipe_page_nums = [int(s) for s in match.group('recipe_page_nums').split(', ')]
+    assert all(recipe_page_nums[i - 1] < recipe_page_nums[i] for i in range(1, len(recipe_page_nums))), \
+        f"{name}:{subtype}, page nums not in ascending order: {recipe_page_nums}"
+
+    return Ingredient(name, subtype, recipe_page_nums)
 
 
 def parse_recipes(source):
