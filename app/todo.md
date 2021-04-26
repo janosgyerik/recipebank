@@ -1,9 +1,9 @@
 Clean code:
 
+- automated tests
 - review and rename search_key / search properties (should be display_name?)
 - better abstractions and encapsulation
-- automated tests
-- CI/CD with analysis on SonarCloud
+- cleaner logic in parser
 
 Easier to use:
 
@@ -14,3 +14,4 @@ Easier to use:
 - favorite recipes (local only for now)
 - highlight ingredients that are part of the filter
 - add ingredient photos, and use them in recipe cards
+- support custom recipes in parser
