@@ -1,0 +1,85 @@
+apricot 84
+Agave; syrup 142, 144, 146, 150, 154, 156
+garlic 98, 128, 142
+almond 150
+pineapple 46, 78, 80, 108
+dill 92
+asparagus 132
+avocado 92, 100, 128, 130, 132 
+Banana 72, 76, 80, 84, 104, 108, 114, 116
+basil 32, 54, 94, 100, 132
+beetroot 26, 36, 40, 54, 68
+chard 38
+Bok choy 72, 82, 84, 96
+broccoli 28, 64, 134
+Cacao; powder 154
+cinnamon 106, 126, 156
+carrot 38, 40, 48, 62
+blackcurrant 54, 120
+celery 26, 60, 64, 94, 96, 124
+kale 40, 48, 50, 64, 80, 82, 86, 88, 98, 100, 112
+cabbage 28, 58, 60, 78
+brussels sprout 42
+lemon 24, 26, 32, 36, 44, 48, 86, 88, 92, 94, 96, 102, 110, 114, 128, 132, 140, 142, 144
+lime 32, 38, 44, 50, 56, 82, 100, 130
+cucumber 26, 32, 34, 52, 92, 100, 128
+coriander 22, 96, 98, 104, 108
+watercress 40, 44, 102, 130
+Curcuma 96
+dates 126, 152, 156
+spinach 28, 32, 40, 46, 56, 74, 90, 94, 106, 110, 116
+fennel 52, 66, 100
+fig 106
+strawberry 42, 58, 72, 82, 104
+raspberry 46, 56, 74
+cashew nuts 154
+pecan nuts 156
+brazilian nuts 146
+pine nuts 148 
+wheat germ 102
+ginger 24, 32, 40, 48, 68, 78, 96, 98, 110, 142, 144
+Goji; berries 124
+chia; grains 112, 134
+pumpkin; seeds 152
+flax; seeds 102
+Grenade 36 
+wheat grass 30
+olive oil 26 
+jalapeño 22, 34, 98, 128
+Kiwi 64, 122 
+lettuce; red 122
+lettuce; head 42, 120, 124
+lettuce; romaine 76, 84, 114, 118, 126
+Mandarin 124
+Mango 78, 112, 120, 124
+Cantaloupe melon 64, 118
+galia Melon 60
+mint 32, 50, 56, 76, 86, 90, 108, 118
+honey 78, 90, 102, 110, 148, 152
+blueberry 54, 74, 84, 88, 134
+Nectarine 44, 110
+coconut 80
+coconut; water 22, 80, 104
+coconut; oil 146, 150, 154
+Orange 30, 40, 42, 68, 74, 86, 98, 116, 120, 122, 126, 130, 132, 134, 142
+oregano 100 
+Papaya 50, 116
+watermelon 114
+sweet potato 62
+peach 56, 90, 106
+parsley 52, 64, 92
+Cayenne pepper 24, 96, 142
+dandelion; leafs 24, 64
+pear 44, 50, 82, 88
+leek 128
+green pepper 26, 34
+apple 22, 28, 32, 34, 38, 40, 52, 60, 62, 66, 96, 126
+green apple 138, 140
+Radicchio 24, 38
+Radish 26, 38, 128
+grapes; white 28, 84
+grapes; red 36, 72, 122
+arugula 22, 30, 34
+Spiruline 44, 140
+Tomato 52, 58, 94, 100
+Vanilla; extract 106, 146, 150, 154, 156

@@ -1,6 +1,6 @@
 import unittest
 
-from parse_detox_smoothies import slugify, compute_ingredient_id, compute_ingredient_search_key
+from parse_recipes import slugify, compute_ingredient_id, compute_ingredient_search_key
 
 
 class MyTestCase(unittest.TestCase):

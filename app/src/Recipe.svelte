@@ -15,7 +15,7 @@
         {/each}
       </ul>
     </div>
-    <div class="card-header">Detox Smoothies (page {recipe.page_num})</div>
+    <div class="card-header">{recipe.source_name} (page {recipe.page_num})</div>
   </div>
 </main>
 

@@ -1,0 +1,71 @@
+juices
+22 arugula tonic
+24 dandelion tonic
+26 beetroot tonic
+28 green fibers juice
+30 wheat grass vitalizing juice
+32 refreshing juice for summer
+34 green pepper juice
+36 beetroot beauty juice
+38 juice remedy
+40 energizing juice
+42 Brussels juice
+44 juice for the brain
+46 Popeye juice
+48 fat burner juice
+50 juice for digestion
+52 tomatoes and fennel juice
+54 berries in force juice
+56 raspberries and mint juice
+58 strawberry juice
+60 detox juice
+62 carrot juice
+64 purifier juice
+66 fennel juice
+68 purple ginger juice
+
+SMOOTHIES 
+72 strawberry delight
+74 spinach and berries
+76 banana tonic smoothie
+78 tropical cabbage smoothie
+80 kale and coconut
+82 pear and bok choy
+84 fibers to gogo
+86 alcalizing smoothie
+88 blueberries and kale
+90 to feel peachy
+92 avocado smoothie
+94 tomato and basil
+96 coriander and spices
+98 jalapeño and orange
+100 light fennel smoothie
+102 to start the day on the right foot
+104 fruity smoothie
+106 vanilla and figs
+108 pineapple smoothie
+110 Nectarine and lemon
+112 mango smoothie
+114 watermelon smoothie
+116 Papaya and spinach
+118 Super cantaloupe
+120 blackcurrant smoothie
+122 Aloe vera and lettuce
+124 Goji and mandarine
+126 oriental juice
+128 pears and cucumber
+130 watercress
+132 tonic smoothie for the skin
+134 blueberries and chia
+
+SHOTS and milks
+138 Aloe shot
+140 green apple shot
+142 stop the flu shot
+144 ginger shot
+146 brazilian nuts milk
+148 pine nuts milk
+150 almond milk
+152 pumpkin seeds milk
+154 chocolate cashew milk
+156 pecan milk
