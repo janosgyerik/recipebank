@@ -30,7 +30,7 @@ class MyTestCase(unittest.TestCase):
                          compute_ingredient_search_key(ACAI_BERRY_CANONICAL, 'sliced and diced'))
 
     def test_parse_ingredient_line(self):
-        line = "dandelion; leafs 22, 24"
+        line = "dandelion; leafs 22, 24  "
         ingredient = parse_ingredient_line(line)
         self.assertEqual("dandelion:leafs", ingredient.id)
         self.assertEqual("Dandelion", ingredient.name)
@@ -41,7 +41,8 @@ class MyTestCase(unittest.TestCase):
         invalid = [
             "dandelion; leafs; more 22, 24",
             "dandelion;; leafs 22, 24",
-            "dandelion;; leafs 22, 24, foo",
+            "dandelion; leafs; foo 22, 24",
+            "dandelion; leafs 22, 24, foo",
         ]
         for line in invalid:
             self.assertRaises(InvalidIngredientLine, lambda: parse_ingredient_line(line))

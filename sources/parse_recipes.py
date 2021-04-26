@@ -97,7 +97,7 @@ def parse_ingredients(source):
 
 
 def parse_ingredient_line(line):
-    match = re_ingredient.match(line)
+    match = re_ingredient.fullmatch(line.rstrip())
     if match is None:
         raise InvalidIngredientLine(line)
     name = match.group('name')
