@@ -1,6 +1,5 @@
 Clean code:
 
-- automated tests
 - review and rename search_key / search properties (should be display_name?)
 - better abstractions and encapsulation
 - cleaner logic in parser
