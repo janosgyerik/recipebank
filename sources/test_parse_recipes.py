@@ -44,10 +44,7 @@ class MyTestCase(unittest.TestCase):
             "dandelion;; leafs 22, 24, foo",
         ]
         for line in invalid:
-            def runnable():
-                parse_ingredient_line(line)
-
-            self.assertRaises(InvalidIngredientLine, runnable)
+            self.assertRaises(InvalidIngredientLine, lambda: parse_ingredient_line(line))
 
 
 if __name__ == '__main__':
