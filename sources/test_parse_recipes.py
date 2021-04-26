@@ -3,10 +3,12 @@ import unittest
 from parse_recipes import slugify, compute_ingredient_id, compute_ingredient_search_key, parse_ingredient_line, \
     InvalidIngredientLine
 
+ACAI_BERRY_CANONICAL = 'Acai berry'
+
 
 class MyTestCase(unittest.TestCase):
     def test_slugify_multi_word_string(self):
-        self.assertEqual("acai-berry", slugify('Acai berry'))
+        self.assertEqual("acai-berry", slugify(ACAI_BERRY_CANONICAL))
 
     def test_slugify_drops_nonalphanumeric_characters(self):
         self.assertEqual("jims-best", slugify("Jim's best"))
@@ -15,17 +17,17 @@ class MyTestCase(unittest.TestCase):
         self.assertEqual("acai-berry-jam", slugify('Acai  berry   jam'))
 
     def test_compute_ingredient_id_without_subtype(self):
-        self.assertEqual("acai-berry", compute_ingredient_id("Acai berry", None))
+        self.assertEqual("acai-berry", compute_ingredient_id(ACAI_BERRY_CANONICAL, None))
 
     def test_compute_ingredient_id_with_subtype(self):
-        self.assertEqual("acai-berry:sliced-and-diced", compute_ingredient_id("Acai berry", 'sliced and diced'))
+        self.assertEqual("acai-berry:sliced-and-diced", compute_ingredient_id(ACAI_BERRY_CANONICAL, 'sliced and diced'))
 
     def test_compute_ingredient_search_key_without_subtype(self):
-        self.assertEqual("Acai berry", compute_ingredient_search_key("Acai berry", None))
+        self.assertEqual(ACAI_BERRY_CANONICAL, compute_ingredient_search_key(ACAI_BERRY_CANONICAL, None))
 
     def test_compute_ingredient_search_key_with_subtype(self):
         self.assertEqual("Acai berry (sliced and diced)",
-                         compute_ingredient_search_key("Acai berry", 'sliced and diced'))
+                         compute_ingredient_search_key(ACAI_BERRY_CANONICAL, 'sliced and diced'))
 
     def test_parse_ingredient_line(self):
         line = "dandelion; leafs 22, 24"
@@ -44,6 +46,7 @@ class MyTestCase(unittest.TestCase):
         for line in invalid:
             def runnable():
                 parse_ingredient_line(line)
+
             self.assertRaises(InvalidIngredientLine, runnable)
 
 
