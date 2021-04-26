@@ -166,7 +166,7 @@
       "source_name": "Detox Smoothies",
       "id": "detox-smoothies-74",
       "page_num": 74,
-      "name": "Almond And Lin Seed",
+      "name": "Almond And Flax Seed",
       "category": "Detox Smoothies",
       "ingredients": [
         {
@@ -291,17 +291,18 @@
           ]
         },
         {
-          "id": "lin:seeds",
-          "name": "Lin",
+          "id": "flax:seeds",
+          "name": "Flax",
           "subtype": "seeds",
-          "search_key": "Lin (seeds)",
+          "search_key": "Flax (seeds)",
           "recipe_refs": [
             "detox-smoothies-46",
             "detox-smoothies-64",
             "detox-smoothies-74",
             "detox-smoothies-78",
             "detox-smoothies-142",
-            "detox-smoothies-150"
+            "detox-smoothies-150",
+            "green-smoothies-102"
           ]
         }
       ]
@@ -2375,17 +2376,18 @@
           ]
         },
         {
-          "id": "lin:seeds",
-          "name": "Lin",
+          "id": "flax:seeds",
+          "name": "Flax",
           "subtype": "seeds",
-          "search_key": "Lin (seeds)",
+          "search_key": "Flax (seeds)",
           "recipe_refs": [
             "detox-smoothies-46",
             "detox-smoothies-64",
             "detox-smoothies-74",
             "detox-smoothies-78",
             "detox-smoothies-142",
-            "detox-smoothies-150"
+            "detox-smoothies-150",
+            "green-smoothies-102"
           ]
         },
         {
@@ -2676,17 +2678,18 @@
           ]
         },
         {
-          "id": "lin:seeds",
-          "name": "Lin",
+          "id": "flax:seeds",
+          "name": "Flax",
           "subtype": "seeds",
-          "search_key": "Lin (seeds)",
+          "search_key": "Flax (seeds)",
           "recipe_refs": [
             "detox-smoothies-46",
             "detox-smoothies-64",
             "detox-smoothies-74",
             "detox-smoothies-78",
             "detox-smoothies-142",
-            "detox-smoothies-150"
+            "detox-smoothies-150",
+            "green-smoothies-102"
           ]
         },
         {
@@ -6108,17 +6111,18 @@
           ]
         },
         {
-          "id": "lin:seeds",
-          "name": "Lin",
+          "id": "flax:seeds",
+          "name": "Flax",
           "subtype": "seeds",
-          "search_key": "Lin (seeds)",
+          "search_key": "Flax (seeds)",
           "recipe_refs": [
             "detox-smoothies-46",
             "detox-smoothies-64",
             "detox-smoothies-74",
             "detox-smoothies-78",
             "detox-smoothies-142",
-            "detox-smoothies-150"
+            "detox-smoothies-150",
+            "green-smoothies-102"
           ]
         },
         {
@@ -6378,17 +6382,18 @@
           ]
         },
         {
-          "id": "lin:seeds",
-          "name": "Lin",
+          "id": "flax:seeds",
+          "name": "Flax",
           "subtype": "seeds",
-          "search_key": "Lin (seeds)",
+          "search_key": "Flax (seeds)",
           "recipe_refs": [
             "detox-smoothies-46",
             "detox-smoothies-64",
             "detox-smoothies-74",
             "detox-smoothies-78",
             "detox-smoothies-142",
-            "detox-smoothies-150"
+            "detox-smoothies-150",
+            "green-smoothies-102"
           ]
         },
         {
@@ -6433,6 +6438,148 @@
             "green-smoothies-66",
             "green-smoothies-96",
             "green-smoothies-126"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "detox-smoothies",
+      "source_name": "Detox Smoothies",
+      "id": "detox-smoothies-46",
+      "page_num": 46,
+      "name": "Pineapple And Flax Seed",
+      "category": "Detox Smoothies",
+      "ingredients": [
+        {
+          "id": "pineapple",
+          "name": "Pineapple",
+          "subtype": null,
+          "search_key": "Pineapple",
+          "recipe_refs": [
+            "detox-smoothies-30",
+            "detox-smoothies-42",
+            "detox-smoothies-46",
+            "detox-smoothies-64",
+            "detox-smoothies-70",
+            "detox-smoothies-76",
+            "detox-smoothies-86",
+            "detox-smoothies-88",
+            "detox-smoothies-90",
+            "detox-smoothies-96",
+            "green-smoothies-46",
+            "green-smoothies-78",
+            "green-smoothies-80",
+            "green-smoothies-108"
+          ]
+        },
+        {
+          "id": "banana",
+          "name": "Banana",
+          "subtype": null,
+          "search_key": "Banana",
+          "recipe_refs": [
+            "detox-smoothies-28",
+            "detox-smoothies-40",
+            "detox-smoothies-44",
+            "detox-smoothies-46",
+            "detox-smoothies-54",
+            "detox-smoothies-56",
+            "detox-smoothies-58",
+            "detox-smoothies-66",
+            "detox-smoothies-74",
+            "detox-smoothies-80",
+            "green-smoothies-72",
+            "green-smoothies-76",
+            "green-smoothies-80",
+            "green-smoothies-84",
+            "green-smoothies-104",
+            "green-smoothies-108",
+            "green-smoothies-114",
+            "green-smoothies-116"
+          ]
+        },
+        {
+          "id": "coconut-water",
+          "name": "Coconut Water",
+          "subtype": null,
+          "search_key": "Coconut Water",
+          "recipe_refs": [
+            "detox-smoothies-46",
+            "detox-smoothies-56",
+            "detox-smoothies-70",
+            "detox-smoothies-78",
+            "detox-smoothies-140"
+          ]
+        },
+        {
+          "id": "spinach",
+          "name": "Spinach",
+          "subtype": null,
+          "search_key": "Spinach",
+          "recipe_refs": [
+            "detox-smoothies-30",
+            "detox-smoothies-34",
+            "detox-smoothies-40",
+            "detox-smoothies-44",
+            "detox-smoothies-46",
+            "detox-smoothies-48",
+            "detox-smoothies-62",
+            "detox-smoothies-74",
+            "detox-smoothies-90",
+            "detox-smoothies-92",
+            "detox-smoothies-102",
+            "detox-smoothies-106",
+            "detox-smoothies-110",
+            "detox-smoothies-114",
+            "detox-smoothies-122",
+            "detox-smoothies-132",
+            "detox-smoothies-136",
+            "detox-smoothies-148",
+            "green-smoothies-28",
+            "green-smoothies-32",
+            "green-smoothies-40",
+            "green-smoothies-46",
+            "green-smoothies-56",
+            "green-smoothies-74",
+            "green-smoothies-90",
+            "green-smoothies-94",
+            "green-smoothies-106",
+            "green-smoothies-110",
+            "green-smoothies-116"
+          ]
+        },
+        {
+          "id": "flax:seeds",
+          "name": "Flax",
+          "subtype": "seeds",
+          "search_key": "Flax (seeds)",
+          "recipe_refs": [
+            "detox-smoothies-46",
+            "detox-smoothies-64",
+            "detox-smoothies-74",
+            "detox-smoothies-78",
+            "detox-smoothies-142",
+            "detox-smoothies-150",
+            "green-smoothies-102"
+          ]
+        },
+        {
+          "id": "mango",
+          "name": "Mango",
+          "subtype": null,
+          "search_key": "Mango",
+          "recipe_refs": [
+            "detox-smoothies-40",
+            "detox-smoothies-44",
+            "detox-smoothies-46",
+            "detox-smoothies-58",
+            "detox-smoothies-62",
+            "detox-smoothies-78",
+            "detox-smoothies-80",
+            "green-smoothies-78",
+            "green-smoothies-112",
+            "green-smoothies-120",
+            "green-smoothies-124"
           ]
         }
       ]
@@ -6631,147 +6778,6 @@
             "green-smoothies-66",
             "green-smoothies-96",
             "green-smoothies-126"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "detox-smoothies",
-      "source_name": "Detox Smoothies",
-      "id": "detox-smoothies-46",
-      "page_num": 46,
-      "name": "Pineapple And Lin Seed",
-      "category": "Detox Smoothies",
-      "ingredients": [
-        {
-          "id": "pineapple",
-          "name": "Pineapple",
-          "subtype": null,
-          "search_key": "Pineapple",
-          "recipe_refs": [
-            "detox-smoothies-30",
-            "detox-smoothies-42",
-            "detox-smoothies-46",
-            "detox-smoothies-64",
-            "detox-smoothies-70",
-            "detox-smoothies-76",
-            "detox-smoothies-86",
-            "detox-smoothies-88",
-            "detox-smoothies-90",
-            "detox-smoothies-96",
-            "green-smoothies-46",
-            "green-smoothies-78",
-            "green-smoothies-80",
-            "green-smoothies-108"
-          ]
-        },
-        {
-          "id": "banana",
-          "name": "Banana",
-          "subtype": null,
-          "search_key": "Banana",
-          "recipe_refs": [
-            "detox-smoothies-28",
-            "detox-smoothies-40",
-            "detox-smoothies-44",
-            "detox-smoothies-46",
-            "detox-smoothies-54",
-            "detox-smoothies-56",
-            "detox-smoothies-58",
-            "detox-smoothies-66",
-            "detox-smoothies-74",
-            "detox-smoothies-80",
-            "green-smoothies-72",
-            "green-smoothies-76",
-            "green-smoothies-80",
-            "green-smoothies-84",
-            "green-smoothies-104",
-            "green-smoothies-108",
-            "green-smoothies-114",
-            "green-smoothies-116"
-          ]
-        },
-        {
-          "id": "coconut-water",
-          "name": "Coconut Water",
-          "subtype": null,
-          "search_key": "Coconut Water",
-          "recipe_refs": [
-            "detox-smoothies-46",
-            "detox-smoothies-56",
-            "detox-smoothies-70",
-            "detox-smoothies-78",
-            "detox-smoothies-140"
-          ]
-        },
-        {
-          "id": "spinach",
-          "name": "Spinach",
-          "subtype": null,
-          "search_key": "Spinach",
-          "recipe_refs": [
-            "detox-smoothies-30",
-            "detox-smoothies-34",
-            "detox-smoothies-40",
-            "detox-smoothies-44",
-            "detox-smoothies-46",
-            "detox-smoothies-48",
-            "detox-smoothies-62",
-            "detox-smoothies-74",
-            "detox-smoothies-90",
-            "detox-smoothies-92",
-            "detox-smoothies-102",
-            "detox-smoothies-106",
-            "detox-smoothies-110",
-            "detox-smoothies-114",
-            "detox-smoothies-122",
-            "detox-smoothies-132",
-            "detox-smoothies-136",
-            "detox-smoothies-148",
-            "green-smoothies-28",
-            "green-smoothies-32",
-            "green-smoothies-40",
-            "green-smoothies-46",
-            "green-smoothies-56",
-            "green-smoothies-74",
-            "green-smoothies-90",
-            "green-smoothies-94",
-            "green-smoothies-106",
-            "green-smoothies-110",
-            "green-smoothies-116"
-          ]
-        },
-        {
-          "id": "lin:seeds",
-          "name": "Lin",
-          "subtype": "seeds",
-          "search_key": "Lin (seeds)",
-          "recipe_refs": [
-            "detox-smoothies-46",
-            "detox-smoothies-64",
-            "detox-smoothies-74",
-            "detox-smoothies-78",
-            "detox-smoothies-142",
-            "detox-smoothies-150"
-          ]
-        },
-        {
-          "id": "mango",
-          "name": "Mango",
-          "subtype": null,
-          "search_key": "Mango",
-          "recipe_refs": [
-            "detox-smoothies-40",
-            "detox-smoothies-44",
-            "detox-smoothies-46",
-            "detox-smoothies-58",
-            "detox-smoothies-62",
-            "detox-smoothies-78",
-            "detox-smoothies-80",
-            "green-smoothies-78",
-            "green-smoothies-112",
-            "green-smoothies-120",
-            "green-smoothies-124"
           ]
         }
       ]
@@ -14582,6 +14588,12 @@
       "subtype": "seeds",
       "search_key": "Flax (seeds)",
       "recipe_refs": [
+        "detox-smoothies-46",
+        "detox-smoothies-64",
+        "detox-smoothies-74",
+        "detox-smoothies-78",
+        "detox-smoothies-142",
+        "detox-smoothies-150",
         "green-smoothies-102"
       ]
     },
@@ -15042,20 +15054,6 @@
       "search_key": "Lime (zest)",
       "recipe_refs": [
         "detox-smoothies-16"
-      ]
-    },
-    {
-      "id": "lin:seeds",
-      "name": "Lin",
-      "subtype": "seeds",
-      "search_key": "Lin (seeds)",
-      "recipe_refs": [
-        "detox-smoothies-46",
-        "detox-smoothies-64",
-        "detox-smoothies-74",
-        "detox-smoothies-78",
-        "detox-smoothies-142",
-        "detox-smoothies-150"
       ]
     },
     {
